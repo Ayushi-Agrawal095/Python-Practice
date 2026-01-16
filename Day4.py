@@ -13,3 +13,6 @@ print(a-b) # substraction
 print(a*b) # multiplication
 print(a/b) # division
 
+#take input from users
+name= Input("apka name likho: " )
+print("Hello", name)
